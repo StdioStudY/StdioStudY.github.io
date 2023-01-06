@@ -3,8 +3,8 @@
     <channel>
         <title>早睡其实就是早上睡觉</title>
         <subtitle>长风破浪会有时，直挂云帆济沧海</subtitle>
-        <icon>http://stdiostudy.github,io/images/favicon.ico</icon>
-        <link>http://stdiostudy.github,io</link>
+        <icon>http://stdiostudy.github,io/blog/images/favicon.ico</icon>
+        <link>http://stdiostudy.github,io/blog</link>
         <author>
           <name>StudYHarD</name>
         </author>
@@ -16,11 +16,11 @@
         <category term="生活" />
         <category term="c++" />
         <item>
-            <guid isPermalink="true">http://stdiostudy.github,io/2023/01/06/shoka%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</guid>
+            <guid isPermalink="true">http://stdiostudy.github,io/blog/2023/01/06/shoka%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</guid>
             <title>shoka主题如何更换按钮的颜色？</title>
-            <link>http://stdiostudy.github,io/2023/01/06/shoka%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</link>
-            <category term="shoka" scheme="http://stdiostudy.github,io/tags/shoka/" />
-            <category term="网站美化" scheme="http://stdiostudy.github,io/tags/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%96/" />
+            <link>http://stdiostudy.github,io/blog/2023/01/06/shoka%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</link>
+            <category term="shoka" scheme="http://stdiostudy.github,io/blog/tags/shoka/" />
+            <category term="网站美化" scheme="http://stdiostudy.github,io/blog/tags/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%96/" />
             <pubDate>Fri, 06 Jan 2023 23:29:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;shoka主题如何更换按钮的颜色&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shoka主题如何更换按钮的颜色&#34;&gt;#&lt;/a&gt; shoka 主题如何更换按钮的颜色？&lt;/h1&gt;
 &lt;p&gt;首先膜拜一下 theme shoka 的作者，这个主题真是太棒了！&lt;/p&gt;
@@ -56,11 +56,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://stdiostudy.github,io/2023/01/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+            <guid isPermalink="true">http://stdiostudy.github,io/blog/2023/01/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
             <title>第一篇博客</title>
-            <link>http://stdiostudy.github,io/2023/01/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-            <category term="第一篇博客" scheme="http://stdiostudy.github,io/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/" />
-            <category term="置顶" scheme="http://stdiostudy.github,io/tags/%E7%BD%AE%E9%A1%B6/" />
+            <link>http://stdiostudy.github,io/blog/2023/01/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+            <category term="第一篇博客" scheme="http://stdiostudy.github,io/blog/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/" />
+            <category term="置顶" scheme="http://stdiostudy.github,io/blog/tags/%E7%BD%AE%E9%A1%B6/" />
             <pubDate>Fri, 06 Jan 2023 19:42:37 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;大家好！这是 2023 年的第一篇博客，创立这个博客的目的就是为了分享学习和生活。（主要是记录我的学习如果博客有什么问题欢迎大家提出！！！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;谢谢！！！&lt;/strong&gt;&lt;/p&gt;

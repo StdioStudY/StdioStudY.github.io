@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>早睡其实就是早上睡觉</title>
+        <subtitle>长风破浪会有时，直挂云帆济沧海</subtitle>
+        <icon>http://stdiostudy.github,io/images/favicon.ico</icon>
+        <link>http://stdiostudy.github,io</link>
+        <author>
+          <name>StudYHarD</name>
+        </author>
+        <description>一个欢乐的博客</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 07 Jan 2023 13:51:19 +0800</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2023 13:51:19 +0800</lastBuildDate>
+        <category term="笔记" />
+        <category term="生活" />
+        <category term="c++" />
+        <item>
+            <guid isPermalink="true">http://stdiostudy.github,io/2023/01/07/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</guid>
+            <title>shoka 主题如何更换按钮的颜色？</title>
+            <link>http://stdiostudy.github,io/2023/01/07/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</link>
+            <category term="shoka" scheme="http://stdiostudy.github,io/tags/shoka/" />
+            <category term="网站美化" scheme="http://stdiostudy.github,io/tags/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%96/" />
+            <pubDate>Sat, 07 Jan 2023 13:51:19 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;shoka-主题如何更换按钮的颜色&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shoka-主题如何更换按钮的颜色&#34;&gt;#&lt;/a&gt; shoka 主题如何更换按钮的颜色？&lt;/h1&gt;
+&lt;p&gt;首先膜拜一下 theme shoka 的作者，这个主题真是太棒了！&lt;/p&gt;
+&lt;p&gt;如题所示，一直没有人出这个教程，今天我解决了，那么我就出这个教程吧。&lt;/p&gt;
+&lt;p&gt;左侧（或右侧）的主页按钮上的颜色。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://stdiostudy.oss-cn-hangzhou.aliyuncs.com/img/1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;通过 F:\blog\themes\shoka\source\css 中的_mixins.styl 更改。&lt;/p&gt;
+&lt;p&gt;将 135 行中的 orange 和 pink 换个颜色即可，或者改成 16 进制样式。&lt;/p&gt;
+&lt;p&gt;如（16 进制颜色表达）：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  background-image: linear-gradient(to right,#74ebd5 0,#9face6 100%);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;可以和原版对比看：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; background-image: linear-gradient(to right,var(--color-pink) 0,var(--color-orange) 100%);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;有的同学可能想把旁边的 more 的颜色也改一下，达到统一。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://stdiostudy.oss-cn-hangzhou.aliyuncs.com/img/QQ%E5%9B%BE%E7%89%8720230106234030.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;我想说，当然可以做到。&lt;/p&gt;
+&lt;p&gt;通过 F:\blog\themes\shoka\source\css_common\components\pages 中的 home.styl 更改。&lt;/p&gt;
+&lt;p&gt;将 30 行中的 orange 和 pink 换个颜色即可，或者改成 16 进制样式。&lt;/p&gt;
+&lt;p&gt;如上面所示，再不赘述。&lt;/p&gt;
+&lt;p&gt;不过一般 41 行和 42 行的：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  box-shadow: 0 0 .6rem .6rem var(--color-pink-a3);
+  background-color: var(--color-pink-a3);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;改为：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  box-shadow: 0 0 .6rem .6rem var(--color-pink-a1);
+  background-color: var(--color-pink-a1);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;颜色搭配可能更顺畅一些。当然，自己能调整一下是最好的。&lt;/p&gt;
+&lt;p&gt;下面就推荐一个比较不错的渐变色网站：免费的渐变背景 CSS3 样式 | &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL291bHUubWU=&#34;&gt;oulu.me&lt;/span&gt; (&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3B4bGFiLmNu&#34;&gt;pxlab.cn&lt;/span&gt;)&lt;/p&gt;
+&lt;p&gt;各位小伙伴如果喜欢这篇文章的话，欢迎打赏呀！&lt;/p&gt;
+&lt;p&gt;当然也欢迎白嫖！！！（！_！）&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://stdiostudy.github,io/2023/01/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+            <title>第一篇博客</title>
+            <link>http://stdiostudy.github,io/2023/01/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+            <category term="置顶" scheme="http://stdiostudy.github,io/tags/%E7%BD%AE%E9%A1%B6/" />
+            <category term="第一篇博客" scheme="http://stdiostudy.github,io/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/" />
+            <pubDate>Sat, 07 Jan 2023 13:33:45 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;大家好！这是 2023 年的第一篇博客，创立这个博客的目的就是为了分享学习和生活。（主要是记录我的学习）如果博客有什么问题欢迎大家提出！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谢谢！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;祝大家生活愉快！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://stdiostudy.oss-cn-hangzhou.aliyuncs.com/img/109951167779864081.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

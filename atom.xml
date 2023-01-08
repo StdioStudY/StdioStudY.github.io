@@ -8,14 +8,21 @@
     <author>
       <name>StudYHarD</name>
     </author>
-    <updated>2023-01-07T05:51:19.000Z</updated>
+    <updated>2023-01-08T02:51:41.000Z</updated>
     <category term="笔记" />
     <category term="生活" />
     <category term="c++" />
     <entry>
-        <id>http://stdiostudy.github,io/2023/01/07/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</id>
+        <id>http://stdiostudy.github,io/2023/01/08/Calculus-tutorials/%E6%9C%89%E7%90%86%E6%95%B0%E5%9F%9F/</id>
+        <title>有理数域</title>
+        <link rel="alternate" href="http://stdiostudy.github,io/2023/01/08/Calculus-tutorials/%E6%9C%89%E7%90%86%E6%95%B0%E5%9F%9F/"/>
+        <content type="html"></content>
+        <updated>2023-01-08T02:51:41.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://stdiostudy.github,io/2023/01/07/Computer-Technology-Miscellaneous/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</id>
         <title>shoka 主题如何更换按钮的颜色？</title>
-        <link rel="alternate" href="http://stdiostudy.github,io/2023/01/07/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/"/>
+        <link rel="alternate" href="http://stdiostudy.github,io/2023/01/07/Computer-Technology-Miscellaneous/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/"/>
         <content type="html">&lt;h1 id=&#34;shoka-主题如何更换按钮的颜色&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shoka-主题如何更换按钮的颜色&#34;&gt;#&lt;/a&gt; shoka 主题如何更换按钮的颜色？&lt;/h1&gt;
 &lt;p&gt;首先膜拜一下 theme shoka 的作者，这个主题真是太棒了！&lt;/p&gt;
 &lt;p&gt;如题所示，一直没有人出这个教程，今天我解决了，那么我就出这个教程吧。&lt;/p&gt;
@@ -48,6 +55,7 @@
 &lt;p&gt;各位小伙伴如果喜欢这篇文章的话，欢迎打赏呀！&lt;/p&gt;
 &lt;p&gt;当然也欢迎白嫖！！！（！_！）&lt;/p&gt;
 </content>
+        <category term="计算机技术杂谈" scheme="http://stdiostudy.github,io/categories/Computer-Technology-Miscellaneous/" />
         <category term="shoka" scheme="http://stdiostudy.github,io/tags/shoka/" />
         <category term="网站美化" scheme="http://stdiostudy.github,io/tags/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%96/" />
         <updated>2023-01-07T05:51:19.000Z</updated>

@@ -10,15 +10,23 @@
         </author>
         <description>一个欢乐的博客</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 07 Jan 2023 13:51:19 +0800</pubDate>
-        <lastBuildDate>Sat, 07 Jan 2023 13:51:19 +0800</lastBuildDate>
+        <pubDate>Sun, 08 Jan 2023 10:51:41 +0800</pubDate>
+        <lastBuildDate>Sun, 08 Jan 2023 10:51:41 +0800</lastBuildDate>
         <category term="笔记" />
         <category term="生活" />
         <category term="c++" />
         <item>
-            <guid isPermalink="true">http://stdiostudy.github,io/2023/01/07/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</guid>
+            <guid isPermalink="true">http://stdiostudy.github,io/2023/01/08/Calculus-tutorials/%E6%9C%89%E7%90%86%E6%95%B0%E5%9F%9F/</guid>
+            <title>有理数域</title>
+            <link>http://stdiostudy.github,io/2023/01/08/Calculus-tutorials/%E6%9C%89%E7%90%86%E6%95%B0%E5%9F%9F/</link>
+            <pubDate>Sun, 08 Jan 2023 10:51:41 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://stdiostudy.github,io/2023/01/07/Computer-Technology-Miscellaneous/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</guid>
             <title>shoka 主题如何更换按钮的颜色？</title>
-            <link>http://stdiostudy.github,io/2023/01/07/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</link>
+            <link>http://stdiostudy.github,io/2023/01/07/Computer-Technology-Miscellaneous/shoka-%E4%B8%BB%E9%A2%98%E5%A6%82%E4%BD%95%E6%9B%B4%E6%8D%A2%E6%8C%89%E9%92%AE%E7%9A%84%E9%A2%9C%E8%89%B2%EF%BC%9F/</link>
+            <category term="计算机技术杂谈" scheme="http://stdiostudy.github,io/categories/Computer-Technology-Miscellaneous/" />
             <category term="shoka" scheme="http://stdiostudy.github,io/tags/shoka/" />
             <category term="网站美化" scheme="http://stdiostudy.github,io/tags/%E7%BD%91%E7%AB%99%E7%BE%8E%E5%8C%96/" />
             <pubDate>Sat, 07 Jan 2023 13:51:19 +0800</pubDate>
